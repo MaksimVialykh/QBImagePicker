@@ -122,6 +122,9 @@
 		AAF1CA321ACE6FB5005F6295 /* QBAssetCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QBAssetCell.m; sourceTree = "<group>"; };
 		AAF1CA3E1ACE8918005F6295 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/QBImagePicker.strings; sourceTree = "<group>"; };
 		AAF1CA401ACE8A8B005F6295 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/QBImagePicker.strings; sourceTree = "<group>"; };
+		C417C1441C32CFA600090EA1 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Main.strings; sourceTree = "<group>"; };
+		C417C1451C32CFA600090EA1 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		C417C1461C32CFA600090EA1 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/QBImagePicker.strings; sourceTree = "<group>"; };
 		E521B0A11B01D6810079461F /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/QBImagePicker.strings"; sourceTree = "<group>"; };
 		F167DB441C086AB90045AD5B /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/QBImagePicker.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -441,6 +444,7 @@
 				es,
 				de,
 				pl,
+				ru,
 			);
 			mainGroup = AAA8FDF91ACDA079002A9710;
 			productRefGroup = AAA8FE041ACDA079002A9710 /* Products */;
@@ -559,6 +563,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				AAA8FE341ACDA0CE002A9710 /* Base */,
+				C417C1441C32CFA600090EA1 /* ru */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -567,6 +572,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				AAA8FE391ACDA0CE002A9710 /* Base */,
+				C417C1451C32CFA600090EA1 /* ru */,
 			);
 			name = LaunchScreen.xib;
 			sourceTree = "<group>";
@@ -580,6 +586,7 @@
 				07A50A481B331A840010E048 /* es */,
 				74BB93661B2CE91A0044EB60 /* de */,
 				F167DB441C086AB90045AD5B /* pl */,
+				C417C1461C32CFA600090EA1 /* ru */,
 			);
 			name = QBImagePicker.strings;
 			sourceTree = "<group>";
