@@ -119,6 +119,9 @@
 		AACD2F4E1AD12E010029BE0B /* QBImagePickerDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QBImagePickerDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AACD2F531AD12E010029BE0B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AACD2F541AD12E010029BE0B /* QBImagePickerDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QBImagePickerDemoTests.m; sourceTree = "<group>"; };
+		C417C1491C331C5400090EA1 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Main.strings; sourceTree = "<group>"; };
+		C417C14A1C331C5400090EA1 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		C417C14B1C331C5400090EA1 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/QBImagePicker.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -432,6 +435,7 @@
 				"zh-Hans",
 				es,
 				de,
+				ru,
 			);
 			mainGroup = AACD2EE41AD12DB10029BE0B;
 			productRefGroup = AACD2EEF1AD12DB10029BE0B /* Products */;
@@ -553,6 +557,7 @@
 				AA8229A01B57B284008BFB6E /* zh-Hans */,
 				AA8229A11B57B296008BFB6E /* es */,
 				AA8229A21B57B29E008BFB6E /* de */,
+				C417C14B1C331C5400090EA1 /* ru */,
 			);
 			name = QBImagePicker.strings;
 			sourceTree = "<group>";
@@ -561,6 +566,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				AACD2F431AD12E010029BE0B /* Base */,
+				C417C1491C331C5400090EA1 /* ru */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -569,6 +575,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				AACD2F481AD12E010029BE0B /* Base */,
+				C417C14A1C331C5400090EA1 /* ru */,
 			);
 			name = LaunchScreen.xib;
 			sourceTree = "<group>";

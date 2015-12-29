@@ -1,0 +1,33 @@
+
+/* Class = "UINavigationItem"; title = "QBImagePickerController"; ObjectID = "30c-ny-KzV"; */
+"30c-ny-KzV.title" = "QBImagePickerController";
+
+/* Class = "UILabel"; text = "Select Multiple Photos"; ObjectID = "50R-Sk-RaL"; */
+"50R-Sk-RaL.text" = "Select Multiple Photos";
+
+/* Class = "UILabel"; text = "3 photos at least, and 6 photos at most"; ObjectID = "BEI-Um-uvo"; */
+"BEI-Um-uvo.text" = "3 photos at least, and 6 photos at most";
+
+/* Class = "UILabel"; text = "6 photos at most"; ObjectID = "D4b-11-fTV"; */
+"D4b-11-fTV.text" = "6 photos at most";
+
+/* Class = "UILabel"; text = "Select Single Photo"; ObjectID = "Ide-YP-3fZ"; */
+"Ide-YP-3fZ.text" = "Select Single Photo";
+
+/* Class = "UITableViewSection"; headerTitle = "Multiple Selection"; ObjectID = "LRE-o9-fZz"; */
+"LRE-o9-fZz.headerTitle" = "Multiple Selection";
+
+/* Class = "UILabel"; text = "3 photos at least"; ObjectID = "M3e-ac-OOT"; */
+"M3e-ac-OOT.text" = "3 photos at least";
+
+/* Class = "UILabel"; text = "Select Multiple Photos"; ObjectID = "cBQ-4o-POP"; */
+"cBQ-4o-POP.text" = "Select Multiple Photos";
+
+/* Class = "UILabel"; text = "Select Multiple Photos"; ObjectID = "mmi-cD-qdm"; */
+"mmi-cD-qdm.text" = "Select Multiple Photos";
+
+/* Class = "UILabel"; text = "Select Multiple Photos"; ObjectID = "msh-kg-Wat"; */
+"msh-kg-Wat.text" = "Select Multiple Photos";
+
+/* Class = "UITableViewSection"; headerTitle = "Single Selection"; ObjectID = "pVu-j7-FVy"; */
+"pVu-j7-FVy.headerTitle" = "Single Selection";
